@@ -1,21 +1,13 @@
 
-# Let me completely rewrite this from scratch with Senior Maintainer standards
-# - Remove ALL AI-generated patterns (repetitive emojis, generic phrasing, over-decoration)
-# - Tighten spacing and visual hierarchy
-# - Use consistent markdown patterns
-# - Remove duplicate badge sections
-# - Fix grammar and flow
-# - Make it feel like it was written by a real senior engineer
-
-readme_final = '''<div align="center">
+<div align="center">
 
 <img src="images/hero-banner.png" alt="Bangalore Cost of Living Analysis Dashboard" width="100%">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=📊+Bangalore+Cost+of+Living+Analysis;🚀+Interactive+Plotly+Dash+Dashboard;🗺️+100K+Records+%7C+50+Localities+%7C+10+Categories;⚡+Python+%7C+SQLite+%7C+Pandas+%7C+Bootstrap" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Bangalore+Cost+of+Living+Analysis;Interactive+Plotly+Dash+Dashboard;100K+Records+%7C+50+Localities+%7C+10+Categories;Python+%7C+SQLite+%7C+Pandas+%7C+Bootstrap" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash">
@@ -769,7 +761,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 | | |
 |:---|:---|
 | **Bhuvan S M** | Computer Science Engineering (Data Science) |
-| | [GitHub](https://github.com/bhuvansm69-crypto) · [LinkedIn](https://www.linkedin.com/in/bhuvansm) |
+| | [GitHub](https://github.com/bhuvansm69-crypto) · [LinkedIn](https://www.linkedin.com/in/bhuvan-s-m-1aba7625b/) |
 
 </div>
 
@@ -831,4 +823,3 @@ If this project helped you, consider giving it a ⭐ on GitHub.
 [GitHub](https://github.com/bhuvansm69-crypto) · [LinkedIn](https://www.linkedin.com/in/bhuvan-s-m-1aba7625b/)
 
 </div>
-'''
