@@ -8,9 +8,10 @@ Then open: http://127.0.0.1:8050
 from dash import Dash, dcc, html
 import dash_bootstrap_components as dbc
 
-from components import sidebar, topbar
-from callbacks import register_callbacks
-from config import APP_TITLE
+from dashboard.components import sidebar, topbar
+from dashboard.callbacks import register_callbacks
+from dashboard.config import APP_TITLE
+
 
 # Bootstrap Icons via CDN for all the bi-* icon classes used throughout the app
 BOOTSTRAP_ICONS = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
