@@ -4,7 +4,7 @@ Helpers for applying light/dark theme styling consistently to every Plotly
 chart, so a single toggle switches the whole dashboard's look.
 """
 
-from config import THEME, CHART_COLOR_SEQUENCE
+from dashboard.config import THEME, CHART_COLOR_SEQUENCE
 
 
 def get_theme(mode: str = "light") -> dict:
