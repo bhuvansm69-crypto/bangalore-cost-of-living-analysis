@@ -51,39 +51,17 @@ Built using **Python**, **SQLite**, **Pandas**, **Plotly Dash**, and **Bootstrap
 
 # 📊 Dashboard Preview
 
-## 🏠 Dashboard Home
+| Dashboard Home | Analytics |
+|----------------|-----------|
+| ![](images/dashboard-home.png) | ![](images/analytics.png) |
 
-![](images/dashboard-home.png)
+| Locality Explorer | Provider Comparison |
+|-------------------|---------------------|
+| ![](images/locality-explorer.png) | ![](images/provider-comparison.png) |
 
----
-
-## 📈 Analytics
-
-![](images/analytics.png)
-
----
-
-## 📍 Locality Explorer
-
-![](images/locality-explorer.png)
-
----
-
-## 🏢 Provider Comparison
-
-![](images/provider-comparison.png)
-
----
-
-## 🗺️ Bangalore Cost Map
-
-![](images/map.png)
-
----
-
-## 📋 Raw Data Explorer
-
-![](images/raw-data.png)
+| Bangalore Cost Map | Raw Data Explorer |
+|--------------------|-------------------|
+| ![](images/map.png) | ![](images/raw-data.png) |
 
 ---
 
