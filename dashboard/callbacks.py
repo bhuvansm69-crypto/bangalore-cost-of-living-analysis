@@ -14,11 +14,11 @@ from dash import Input, Output, State, dcc, html, ctx, no_update
 from dash.exceptions import PreventUpdate
 import dash_bootstrap_components as dbc
 
-import layouts
-import charts
-from components import sidebar, topbar, insight_card, NAV_ITEMS
-from data import load_data, filter_data, compute_kpis, generate_insights, top_recommendations
-from utils import format_currency, format_count, format_index
+from dashboard import layouts, charts
+from dashboard.components import sidebar, topbar, insight_card, NAV_ITEMS
+from dashboard.data import load_data, filter_data, compute_kpis, generate_insights, top_recommendations
+from dashboard.utils import format_currency, format_count, format_index
+
 
 DF = load_data()
 

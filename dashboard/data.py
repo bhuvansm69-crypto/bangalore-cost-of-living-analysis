@@ -14,7 +14,7 @@ from typing import Optional
 import numpy as np
 import pandas as pd
 
-from config import DATA_PATH, DB_PATH, COST_CATEGORIES, LOCALITY_COORDS
+from dashboard.config import DATA_PATH, DB_PATH, COST_CATEGORIES, LOCALITY_COORDS
 
 
 # ------------------------------------------------------------------

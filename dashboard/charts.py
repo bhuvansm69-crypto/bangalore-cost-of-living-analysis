@@ -10,9 +10,10 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-from config import CATEGORY_LABELS, CHART_COLOR_SEQUENCE
-from theme import style_figure
-from data import cost_of_living_index, monthly_insights
+from dashboard.config import CATEGORY_LABELS, CHART_COLOR_SEQUENCE
+from dashboard.theme import style_figure
+from dashboard.data import cost_of_living_index, monthly_insights
+
 
 
 def _empty_fig(mode: str, message: str = "No data for current filters"):

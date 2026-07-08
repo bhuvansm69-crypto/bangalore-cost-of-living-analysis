@@ -8,8 +8,9 @@ callbacks.py fill in chart data based on active filters.
 from dash import dcc, html, dash_table
 import dash_bootstrap_components as dbc
 
-from components import kpi_row, filter_panel, chart_card
-from config import CATEGORY_LABELS
+from dashboard.components import kpi_row, filter_panel, chart_card
+from dashboard.config import CATEGORY_LABELS
+
 
 
 def dashboard_layout(df):
