@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="images/hero-banner.png" alt="Bangalore Cost of Living Analysis Dashboard" width="100%">
@@ -8,6 +7,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Bangalore+Cost+of+Living+Analysis;Interactive+Plotly+Dash+Dashboard;100K+Records+%7C+50+Localities+%7C+10+Categories;Python+%7C+SQLite+%7C+Pandas+%7C+Bootstrap" alt="Typing SVG" />
 
 <br><br>
+
+<a href="https://bangalore-cost-of-living-analysis.onrender.com/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Dashboard-success?style=for-the-badge" alt="Live Demo">
+</a>
+
+<a href="https://github.com/bhuvansm69-crypto/bangalore-cost-of-living-analysis">
+  <img src="https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repository">
+</a>
+
+<br><br>
+
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash">
