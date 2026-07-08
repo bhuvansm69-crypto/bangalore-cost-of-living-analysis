@@ -8,7 +8,7 @@ composed across multiple pages without duplication.
 from dash import dcc, html
 import dash_bootstrap_components as dbc
 
-from config import CATEGORY_LABELS
+from dashboard.config import CATEGORY_LABELS
 
 
 # ------------------------------------------------------------------
