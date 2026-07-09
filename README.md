@@ -771,7 +771,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 | | |
 |:---|:---|
 | **Bhuvan S M** | Computer Science Engineering (Data Science) |
-| | [GitHub](https://github.com/bhuvansm69-crypto) · [LinkedIn](https://www.linkedin.com/in/bhuvan-s-m-1aba7625b/) |
+| | [GitHub](https://github.com/Dev-bhuvan19) · [LinkedIn](https://www.linkedin.com/in/bhuvan-sm/) |
 
 </div>
 
@@ -830,6 +830,6 @@ If this project helped you, consider giving it a ⭐ on GitHub.
 
 © 2026 Bhuvan S M
 
-[GitHub](https://github.com/bhuvansm69-crypto) · [LinkedIn](https://www.linkedin.com/in/bhuvan-s-m-1aba7625b/)
+[GitHub](https://github.com/Dev-bhuvan19) · [LinkedIn](https://www.linkedin.com/in/bhuvan-sm/)
 
 </div>
