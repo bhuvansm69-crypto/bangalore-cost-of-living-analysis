@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Dashboard-success?style=for-the-badge" alt="Live Demo">
 </a>
 
+<a href="https://www.linkedin.com/in/bhuvan-sm">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/bhuvansm69-crypto/bangalore-cost-of-living-analysis">
   <img src="https://img.shields.io/badge/📂_Repository-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repository">
 </a>
@@ -778,21 +782,21 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 > Building data-driven solutions that make complex information accessible, beautiful, and actionable.
 
 ---
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhuvansm69-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvansm69-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-bhuvan19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-bhuvan19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhuvansm69-crypto&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" width="90%">
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-bhuvan19&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" width="90%">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvansm69-crypto&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-bhuvan19&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%">
 
 </div>
 
